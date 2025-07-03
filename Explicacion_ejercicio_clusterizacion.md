@@ -191,3 +191,8 @@ Ahora voy a verificar que también tengas las otras celdas que pueden no haberse
 - MeanShift también encuentra 4 clusters con el mejor Davies-Bouldin score
 
 Tu entorno está completamente funcional y listo para análisis adicionales, experimentación con parámetros, o aplicación a nuevos datasets. ¿Hay algo específico que te gustaría hacer a continuación con el proyecto?
+
+
+El Data Set completo de Kaggel 
+
+https://www.kaggle.com/code/karnikakapoor/customer-segmentation-clustering
